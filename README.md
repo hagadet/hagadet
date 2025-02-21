@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Mai Huy Nguyên  
 
-🎨 Lập trình viên | 🎶 Yêu nhạc Yorushika | 🖌️ Đam mê vẽ  
+🎨 Học lập trình | 🎶 Yêu nhạc Yorushika | 🖌️ Đam mê vẽ  
 
 ## 📌 Giới thiệu  
 - 🔹 Sở thích: Nghe nhạc Yorushika, vẽ  
