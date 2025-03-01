@@ -10,6 +10,5 @@
 ## 🌟 Dự án & Công việc  
 - 🚀 Đang phát triển game **FindSelf**  
 
-## 📫 Liên hệ với tôi  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakuro.frenga)  
+## 📫 Liên hệ với tôi   
 📞 Số điện thoại: 0832120479  
